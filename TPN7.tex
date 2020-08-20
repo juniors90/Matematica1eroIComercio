@@ -1,0 +1,244 @@
+\documentclass[10pt]{examdesign}
+\usepackage[spanish]{babel}
+\OneKey
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{pifont}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amscd}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{amsthm}
+\usepackage[all]{xy}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage[colorlinks=true,
+breaklinks=true,
+linkcolor=blue,
+urlcolor=red,
+bookmarksopen=true]{hyperref}
+\usepackage[pdftex,dvipsnames]{xcolor}
+\definecolor{aqua}{rgb}{0.0, 1.0, 1.0}
+\definecolor{caribbeangreen}{rgb}{0.0, 0.8, 0.6}
+\definecolor{tealgreen}{rgb}{0.0, 0.51, 0.5}
+\definecolor{upforestgreen}{rgb}{0.0, 0.27, 0.13}
+\definecolor{napiergreen}{rgb}{0.16, 0.5, 0.0}
+\definecolor{capri}{rgb}{0.0, 0.75, 1.0}
+\definecolor{calpolypomonagreen}{rgb}{0.12, 0.3, 0.17}
+\definecolor{azure(colorwheel)}{rgb}{0.0, 0.5, 1.0}
+\definecolor{dukeblue}{rgb}{0.0, 0.0, 0.61}
+\definecolor{bole}{rgb}{0.47, 0.27, 0.23}
+\definecolor{gris}{gray}{0.975}
+%----------------------------------------------------------------------------------------------
+% Si desea utilizar \@@line para definir su propio encabezado de examen o palabras del encabezado, 
+% asegúrese de usar \makeatletter y \makeatother en los lugares apropiados, de lo contrario 
+% podría obtener errores.
+%-----------------------------------------------------------------------------------------------
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{thm}[theorem]{Teorema}
+\newtheorem{cor}[theorem]{Corolario}
+\newtheorem{lem}[theorem]{Lema}
+\newtheorem{pro}[theorem]{Proposición}
+\newtheorem{axs}[theorem]{Axiomas}
+\newtheorem{axi}[theorem]{Axioma}
+\theoremstyle{definition}
+\newtheorem{exas}[theorem]{Ejemplos}
+\newtheorem{exa}[theorem]{Ejemplo}
+\newtheorem{defi}[theorem]{Definición}
+\theoremstyle{remark}
+\newtheorem{rmk}[theorem]{Observación}
+\newtheorem{step}{Step}
+\newtheorem{xca}[theorem]{Ejercicio}
+\newtheorem{prob}[theorem]{Pregunta}
+\newtheorem{rmks}[theorem]{Observaciones}
+\newtheorem*{proofmt}{Prueba del Teorema Principal}
+\usepackage[centerlast,small,sc]{caption}
+\setlength{\captionmargin}{20pt}
+\newcommand{\axref}[1]{Axioma~\ref{#1}}
+\newcommand{\defref}[1]{\textbf{Definición}~\ref{#1}}
+\newcommand{\coref}[1]{\textbf{Corolario}~\ref{#1}}
+\newcommand{\thref}[1]{\textbf{Teorema}~\ref{#1}}
+\newcommand{\lref}[1]{\textbf{Lema}~\ref{#1}}
+\newcommand{\exaref}[1]{Ejemplo~\ref{#1}}
+\newcommand{\xcaref}[1]{Ejercicio~\ref{#1}}
+\newcommand{\rmkref}[1]{Observación~\ref{#1}}
+\newcommand{\pref}[1]{\textbf{Proposición}~\ref{#1}}
+\newcommand{\fref}[1]{Figura~\ref{#1}}
+\newcommand{\tref}[1]{Tabla~\ref{#1}}
+\newcommand{\cref}[1]{\textbf{Capítulo}~\ref{#1}}
+\newcommand{\sref}[1]{\textbf{Sección}~\ref{#1}}
+\newcommand{\aref}[1]{Apéndice~\ref{#1}}
+\newcommand{\eref}[1]{Ecuación~\eqref{#1}}
+\newcommand{\dref}[1]{Diagrama~\eqref{#1}}
+\usepackage{makeidx}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows,positioning,shadows,shadings,backgrounds,
+	calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+\tcbset{opteqC/.style={skin=beamer,colback=red!1!white}}
+\newcommand{\celda}[2]{
+	                  \begin{minipage}{#1mm}
+	                      \centering
+	                      \vspace{2mm}
+		                      #2
+		                  \vspace{2mm}
+                      \end{minipage}
+                     }
+\makeatletter
+%----------------------------------------------------------------------------------------------%
+\begin{examtop}
+	\@@line{\parbox{3in}{\classdata \\[0.5cm]
+			\textcolor{upforestgreen}{\textbf{\underline{T.P.N$^\circ$}}~\fbox{\textsc{6}}} \examtype}
+		%                  ^^^^^^
+		\hfill
+		\parbox{3in}{\normalsize \namedata}}
+	\bigskip
+\end{examtop}
+%----------------------------------------------------------------------------------------------%
+\def\namedata{\textcolor{upforestgreen}{\textbf{Estudiante}}:\hrulefill \\[\namedata@vspace]
+	          \textcolor{upforestgreen}{\textbf{Curso y División}}: 1er año, I \\[\namedata@vspace]
+	          \textcolor{upforestgreen}{\textbf{Profesor}}: Ferreira, Juan David \\[\namedata@vspace]
+	          \textcolor{upforestgreen}{\textbf{Fecha de Entrega}}:\hrulefill 
+          }
+ % manual page 11
+%----------------------------------------------------------------------------------------------% 
+\begin{keytop}%
+	\@@line{\hfill \Huge\texttt{\textcolor{upforestgreen}{Respuestas 
+		Trabajo Práctico N$^\circ$~\fbox{\textsc{6}}}} \hfill}
+	\bigskip
+\end{keytop}%
+%----------------------------------------------------------------------------------------------%
+\makeatother
+\examname{\textcolor{upforestgreen}{\underline{\textbf{Resolución de Problemas.}}}}
+
+\SectionPrefix{\textcolor{upforestgreen}{\textbf{Sección \arabic{sectionindex}}.} \space}
+\Fullpages
+\ContinuousNumbering
+\DefineAnswerWrapper{}{}
+\NumberOfVersions{1}
+\class{{\textcolor{upforestgreen}{\large\textbf{E.P.E.S. Nro 51 ``J. G. A.''}}\\[0.5cm]
+		\textcolor{upforestgreen}{{\large \textbf{Matemática}}}}}
+%----------------------------------------------------------------------------------------------%
+\begin{document}
+	%-------------------------------       SHORT ANSWER        ------------------------%
+    \begin{shortanswer}[title={\textit{Receta que le dijo la Abuela Pocha a Ana y
+    			Juan.}},
+    	rearrange=no,resetcounter=no]
+    	\vspace*{-0.2cm}
+    	\begin{figure}[!h]
+    		\begin{minipage}[b]{0.3\textwidth}% 30% de la página
+    			\begin{center}% Figuras: ver capítulo 5
+    				\includegraphics{nena_chipa.png}
+    				%\caption{Poliedros}
+    			\end{center}
+    		\end{minipage}
+    		\hfill
+    		\begin{minipage}[b]{0.65\textwidth} % 65% de la página
+    			\textbf{\textit{\textcolor{upforestgreen}{Ingredientes}}}:
+    			\begin{itemize}
+    				\item 300 g de cebolla picada,
+    				
+    				\item  1 kg (1000 g) de choclo
+    				cocido desgranado,
+    				
+    				\item 200 g de grasa de cerdo,
+    				
+    				\item 300 g de queso,
+    				
+    				\item  5 huevos batidos,
+    				
+    				\item 1 taza de leche,
+    				
+    				\item sal y pimienta a gusto
+    			\end{itemize}
+    		\end{minipage}
+    	\end{figure}
+        \vspace{0.2cm}
+        \textbf{\textit{\textcolor{upforestgreen}{Preparación}}}:
+        \vspace{0.2cm}
+        Saltear la cebolla picada en la grasa, agregar la leche y dejar cocinar $10$ minutos más, retirar del fuego y agregar el queso, los huevos batidos y el choclo. Mezclar bien y colocar en una asadera enmantecada, llevar al horno caliente y sacar cuando está dorado por encima. (\textcolor{dukeblue}{Texto de la receta de \textit{Chipa Guazú} extraído del libro formoseño “Gastronomía Formoseña". SANTANDER, Jorge M}).
+        %--------------------------------------------------------------------------------------%
+    	\begin{question}
+    		Completá el siguiente cuadro con las calorías que aporta cada ingrediente, en la receta de la abuela Pocha
+    		\begin{center}
+    			\begin{tabular}{|c|c|c|}
+    				\hline 
+    				\multirow{2}{*}{Ingredientes} &\multirow{2}{*}{Calorías }&
+    				Calorías en
+    				\\
+    				&&la receta de la abuela\\\hline  
+    				Cebolla frita (por cada $100g$)                  & $258$ &     
+    				\\\hline
+    				Choclo cocido (por cada $100g$)                  & $115$ &     
+    				\\\hline
+    				Grasa de cerdo (manteca de cerdo por cada $100g$)& $115$ &     
+    				\\\hline
+    				Queso (por $100g$)                               & $902$ &     
+    				\\\hline
+    				Huevo cocido (por $1$ unidad)                    & $310$ &     
+    				\\\hline
+    				Leche ($1$ taza)                                 & $155$ &     
+    				\\\hline
+    				Total                                            &       &     
+    				\\\hline
+    			\end{tabular}
+    		\end{center}
+    		\begin{answer}
+    			\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+    		\end{answer}
+    	\end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	¿Qué ingrediente tiene más calorías?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	¿Cómo hiciste para completar la tercera columna?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	¿Cuántas calorías hay en la segunda columna?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	¿Cuántas calorías hay en la tercera columna?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	¿De cuánto es la diferencia de calorías entre ambas columnas?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+        \begin{question}
+        	Si la receta es para obtener una asadera de chipa guazú, y la Abuela Pocha suele dividir
+        	la asadera en 6 porciones iguales ¿cuántas calorías habrá en una porción de chipa?.
+        	\begin{answer}
+        		\textbf{Repuesta}: completar acá su respuesta. No se olviden de eso.
+        	\end{answer}
+        \end{question}
+        %--------------------------------------------------------------------------------------%
+    \end{shortanswer}
+    %------------------------------------------------------------------------------------------%
+\end{document}
