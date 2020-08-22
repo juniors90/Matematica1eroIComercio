@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29 32-bit) (preloaded format=pdflatex 2020.7.8)  29 JUL 2020 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29 32-bit) (preloaded format=pdflatex 2020.7.8)  21 AUG 2020 21:35
 entering extended mode
 **./TPN7.tex
 (TPN7.tex
@@ -12,8 +12,8 @@ Document Class: examdesign
 \c@passes=\count167
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count168
 \c@section=\count169
@@ -148,7 +148,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \exam@c=\count273
 \exam@n=\count274
 \exam@m=\count275
- Randomizer initialized to 723607300.
+ Randomizer initialized to 1516973405.
 \@toklist=\toks19
 \c@first=\count276
 \c@last=\count277
@@ -513,14 +513,6 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count309
 \enitdp@description=\count310
 )
-("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow
-.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip71
-\multirow@cntb=\count311
-\multirow@dima=\skip72
-\bigstrutjot=\dimen262
-)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.st
 y"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
@@ -577,9 +569,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ns.sty"
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen263
-\Hy@linkcounter=\count312
-\Hy@pagecounter=\count313
+\@linkdim=\dimen262
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
 ef"
@@ -595,7 +587,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count314
+\Hy@SavedSpaceFactor=\count313
 Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
 Package hyperref Info: Option `breaklinks' set `true' on input line 4338.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4338.
@@ -606,14 +598,14 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count315
+\c@Hy@tempcnt=\count314
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen264
+\XeTeXLinkMargin=\dimen263
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.s
 ty"
@@ -624,9 +616,9 @@ ntcalc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count316
-\Field@Width=\dimen265
-\Fld@charsize=\dimen266
+\Fld@menulength=\count315
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -641,9 +633,9 @@ LaTeX Info: Redefining \pageref on input line 6421.
 hi.sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count317
-\c@Item=\count318
-\c@Hfootnote=\count319
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -656,8 +648,8 @@ nd.sty"
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count320
-\c@bookmark@seq@number=\count321
+\Fld@listcount=\count319
+\c@bookmark@seq@number=\count320
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
 runfilecheck.sty"
@@ -670,7 +662,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip73
+\Hy@SectionHShift=\skip71
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 "
@@ -695,8 +687,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 .def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-\c@theorem=\count322
-\c@step=\count323
+\c@theorem=\count321
+\c@step=\count322
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.s
 ty"
@@ -706,17 +698,17 @@ Package: caption 2020/05/30 v3.4k Customizing captions (AR)
 sty"
 Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen267
-\captionmargin@=\dimen268
-\captionwidth=\dimen269
-\caption@tempdima=\dimen270
-\caption@indent=\dimen271
-\caption@parindent=\dimen272
-\caption@hangindent=\dimen273
+\captionmargin=\dimen266
+\captionmargin@=\dimen267
+\captionwidth=\dimen268
+\caption@tempdima=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count324
-\c@continuedfloat=\count325
+\c@caption@flags=\count323
+\c@continuedfloat=\count324
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
@@ -732,8 +724,8 @@ rcs.sty"
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfutil-common.tex"
 \pgfutil@everybye=\toks47
-\pgfutil@tempdima=\dimen274
-\pgfutil@tempdimb=\dimen275
+\pgfutil@tempdima=\dimen273
+\pgfutil@tempdimb=\dimen274
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfutil-common-lists.tex"))
@@ -769,26 +761,26 @@ gfkeys.code.tex"
 gfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks50
 ))
-\pgf@x=\dimen276
-\pgf@y=\dimen277
-\pgf@xa=\dimen278
-\pgf@ya=\dimen279
-\pgf@xb=\dimen280
-\pgf@yb=\dimen281
-\pgf@xc=\dimen282
-\pgf@yc=\dimen283
-\pgf@xd=\dimen284
-\pgf@yd=\dimen285
+\pgf@x=\dimen275
+\pgf@y=\dimen276
+\pgf@xa=\dimen277
+\pgf@ya=\dimen278
+\pgf@xb=\dimen279
+\pgf@yb=\dimen280
+\pgf@xc=\dimen281
+\pgf@yc=\dimen282
+\pgf@xd=\dimen283
+\pgf@yd=\dimen284
 \w@pgf@writea=\write4
 \r@pgf@reada=\read5
-\c@pgf@counta=\count326
-\c@pgf@countb=\count327
-\c@pgf@countc=\count328
-\c@pgf@countd=\count329
+\c@pgf@counta=\count325
+\c@pgf@countb=\count326
+\c@pgf@countc=\count327
+\c@pgf@countd=\count328
 \t@pgf@toka=\toks51
 \t@pgf@tokb=\toks52
 \t@pgf@tokc=\toks53
-\pgf@sys@id@count=\count330
+\pgf@sys@id@count=\count329
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgf.cfg"
@@ -807,8 +799,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count331
-\pgfsyssoftpath@bigbuffer@items=\count332
+\pgfsyssoftpath@smallbuffer@items=\count330
+\pgfsyssoftpath@bigbuffer@items=\count331
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgfsysprotocol.code.tex"
@@ -826,8 +818,8 @@ hcalc.code.tex"
 hutil.code.tex")
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 hparser.code.tex"
-\pgfmath@dimen=\dimen286
-\pgfmath@count=\count333
+\pgfmath@dimen=\dimen285
+\pgfmath@count=\count332
 \pgfmath@box=\box105
 \pgfmath@toks=\toks54
 \pgfmath@stack@operand=\toks55
@@ -853,39 +845,39 @@ hfunctions.misc.code.tex")
 hfunctions.integerarithmetics.code.tex")))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 hfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count334
+\c@pgfmathroundto@lastzeros=\count333
 ))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint
 .code.tex")
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen287
-\pgf@picmaxx=\dimen288
-\pgf@picminy=\dimen289
-\pgf@picmaxy=\dimen290
-\pgf@pathminx=\dimen291
-\pgf@pathmaxx=\dimen292
-\pgf@pathminy=\dimen293
-\pgf@pathmaxy=\dimen294
-\pgf@xx=\dimen295
-\pgf@xy=\dimen296
-\pgf@yx=\dimen297
-\pgf@yy=\dimen298
-\pgf@zx=\dimen299
-\pgf@zy=\dimen300
+\pgf@picminx=\dimen286
+\pgf@picmaxx=\dimen287
+\pgf@picminy=\dimen288
+\pgf@picmaxy=\dimen289
+\pgf@pathminx=\dimen290
+\pgf@pathmaxx=\dimen291
+\pgf@pathminy=\dimen292
+\pgf@pathmaxy=\dimen293
+\pgf@xx=\dimen294
+\pgf@xy=\dimen295
+\pgf@yx=\dimen296
+\pgf@yy=\dimen297
+\pgf@zx=\dimen298
+\pgf@zy=\dimen299
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen301
-\pgf@path@lasty=\dimen302
+\pgf@path@lastx=\dimen300
+\pgf@path@lasty=\dimen301
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen303
-\pgf@shorten@start@additional=\dimen304
+\pgf@shorten@end@additional=\dimen302
+\pgf@shorten@start@additional=\dimen303
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorescopes.code.tex"
@@ -893,19 +885,19 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box106
 \pgf@hbox=\box107
 \pgf@layerbox@main=\box108
-\pgf@picture@serial@count=\count335
+\pgf@picture@serial@count=\count334
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen305
+\pgflinewidth=\dimen304
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen306
-\pgf@pt@y=\dimen307
-\pgf@pt@temp=\dimen308
+\pgf@pt@x=\dimen305
+\pgf@pt@y=\dimen306
+\pgf@pt@temp=\dimen307
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorequick.code.tex"
@@ -922,14 +914,14 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen309
+\pgfarrowsep=\dimen308
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen310
-\pgf@sys@shading@range@num=\count336
-\pgf@shadingcount=\count337
+\pgf@max=\dimen309
+\pgf@sys@shading@range@num=\count335
+\pgf@shadingcount=\count336
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoreimage.code.tex"
@@ -968,8 +960,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
 \pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen311
-\pgf@nodesepend=\dimen312
+\pgf@nodesepstart=\dimen310
+\pgf@nodesepend=\dimen311
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
 \pgfcomp-version-1-18.sty"
@@ -991,8 +983,8 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 h.code.tex")
-\pgffor@iter=\dimen313
-\pgffor@skip=\dimen314
+\pgffor@iter=\dimen312
+\pgffor@skip=\dimen313
 \pgffor@stack=\toks57
 \pgffor@toks=\toks58
 ))
@@ -1003,34 +995,34 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
 gflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count338
-\pgfplotmarksize=\dimen315
+\pgf@plot@mark@count=\count337
+\pgfplotmarksize=\dimen314
 )
-\tikz@lastx=\dimen316
-\tikz@lasty=\dimen317
-\tikz@lastxsaved=\dimen318
-\tikz@lastysaved=\dimen319
-\tikz@lastmovetox=\dimen320
-\tikz@lastmovetoy=\dimen321
-\tikzleveldistance=\dimen322
-\tikzsiblingdistance=\dimen323
+\tikz@lastx=\dimen315
+\tikz@lasty=\dimen316
+\tikz@lastxsaved=\dimen317
+\tikz@lastysaved=\dimen318
+\tikz@lastmovetox=\dimen319
+\tikz@lastmovetoy=\dimen320
+\tikzleveldistance=\dimen321
+\tikzsiblingdistance=\dimen322
 \tikz@figbox=\box111
 \tikz@figbox@bg=\box112
 \tikz@tempbox=\box113
 \tikz@tempbox@bg=\box114
-\tikztreelevel=\count339
-\tikznumberofchildren=\count340
-\tikznumberofcurrentchild=\count341
-\tikz@fig@count=\count342
+\tikztreelevel=\count338
+\tikznumberofchildren=\count339
+\tikznumberofcurrentchild=\count340
+\tikz@fig@count=\count341
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
 modulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count343
-\pgfmatrixcurrentcolumn=\count344
-\pgf@matrix@numberofcolumns=\count345
+\pgfmatrixcurrentrow=\count342
+\pgfmatrixcurrentcolumn=\count343
+\pgf@matrix@numberofcolumns=\count344
 )
-\tikz@expandcount=\count346
+\tikz@expandcount=\count345
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
 er/tikz/libraries\tikzlibrarytopaths.code.tex"
@@ -1054,7 +1046,7 @@ s.tex"
 \XKV@toks=\toks59
 \XKV@tempa@toks=\toks60
 )
-\XKV@depth=\count347
+\XKV@depth=\count346
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
@@ -1064,7 +1056,7 @@ File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
 gflibraryarrows.code.tex"
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen324
+\arrowsize=\dimen323
 ))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
 er/tikz/libraries\tikzlibrarypatterns.code.tex"
@@ -1074,20 +1066,20 @@ File: tikzlibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 gflibrarypatterns.code.tex"
 File: pgflibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-\tkz@XF=\dimen325
-\tkz@YF=\dimen326
-\c@tkz@cnt@line=\count348
-\c@tkz@cnt@lg=\count349
-\c@tkz@cnt@cl=\count350
-\c@tkz@cnt@pred=\count351
-\c@tkz@cnt@temp=\count352
-\c@tkz@cnt@arrow=\count353
-\c@tkz@cnt@zone=\count354
-\c@tkz@cnt@lgnext=\count355
-\c@tkz@cnt@clnext=\count356
-\c@tkz@cnt@pair=\count357
-\c@tkz@cnt@impair=\count358
-\c@tkz@cnt@aw=\count359
+\tkz@XF=\dimen324
+\tkz@YF=\dimen325
+\c@tkz@cnt@line=\count347
+\c@tkz@cnt@lg=\count348
+\c@tkz@cnt@cl=\count349
+\c@tkz@cnt@pred=\count350
+\c@tkz@cnt@temp=\count351
+\c@tkz@cnt@arrow=\count352
+\c@tkz@cnt@zone=\count353
+\c@tkz@cnt@lgnext=\count354
+\c@tkz@cnt@clnext=\count355
+\c@tkz@cnt@pair=\count356
+\c@tkz@cnt@impair=\count357
+\c@tkz@cnt@aw=\count358
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
 er/tikz/libraries\tikzlibrarymatrix.code.tex"
@@ -1204,7 +1196,7 @@ Package: expl3 2020-06-18 L3 programming layer (loader)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
 nd-pdfmode.def"
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count360
+\l__kernel_color_stack_int=\count359
 \l__pdf_internal_box=\box137
 ))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys
@@ -1217,15 +1209,15 @@ Package: xparse 2020-05-15 L3 Experimental document command parser
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse
 \xparse-generic.tex"
-\l__xparse_current_arg_int=\count361
-\g__xparse_grabber_int=\count362
-\l__xparse_m_args_int=\count363
-\l__xparse_v_nesting_int=\count364
+\l__xparse_current_arg_int=\count360
+\g__xparse_grabber_int=\count361
+\l__xparse_m_args_int=\count362
+\l__xparse_v_nesting_int=\count363
 ))
-\l__sn_x_dim=\dimen327
-\l__sn_y_dim=\dimen328
-\l__sn_xa_dim=\dimen329
-\l__sn_ya_dim=\dimen330
+\l__sn_x_dim=\dimen326
+\l__sn_y_dim=\dimen327
+\l__sn_xa_dim=\dimen328
+\l__sn_ya_dim=\dimen329
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorb
 ox.sty"
@@ -1242,15 +1234,15 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox
 .sty"
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count365
+\etb@tempcnta=\count364
 )
 \tcb@titlebox=\box138
 \tcb@upperbox=\box139
 \tcb@lowerbox=\box140
 \tcb@phantombox=\box141
-\c@tcbbreakpart=\count366
-\c@tcblayer=\count367
-\c@tcolorbox@number=\count368
+\c@tcbbreakpart=\count365
+\c@tcblayer=\count366
+\c@tcolorbox@number=\count367
 \tcb@temp=\box142
 \tcb@temp=\box143
 \tcb@temp=\box144
@@ -1261,22 +1253,22 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.
 sty"
 Package: empheq 2017/03/31 v2.15 Emphasizing equations
-\l_EQ_equationtype_int=\count369
-\l_EQ_alignmentmode_int=\count370
-\l_EQ_totalwidth_dim=\dimen331
-\l_EQ_displaywidth_dim=\dimen332
-\l_EQ_temp_linewidth_dim=\dimen333
-\l_EQ_linewidth_dim=\dimen334
-\EmphEqdelimitershortfall=\dimen335
-\EmphEqdelimiterfactor=\count371
-\g_EQ_toptag_height_dim=\dimen336
-\g_EQ_bottomtag_depth_dim=\dimen337
-\g_EQ_toprow_height_dim=\dimen338
-\g_EQ_bottomrow_depth_dim=\dimen339
-\g_EQ_widesttag_dim=\dimen340
+\l_EQ_equationtype_int=\count368
+\l_EQ_alignmentmode_int=\count369
+\l_EQ_totalwidth_dim=\dimen330
+\l_EQ_displaywidth_dim=\dimen331
+\l_EQ_temp_linewidth_dim=\dimen332
+\l_EQ_linewidth_dim=\dimen333
+\EmphEqdelimitershortfall=\dimen334
+\EmphEqdelimiterfactor=\count370
+\g_EQ_toptag_height_dim=\dimen335
+\g_EQ_bottomtag_depth_dim=\dimen336
+\g_EQ_toprow_height_dim=\dimen337
+\g_EQ_bottomrow_depth_dim=\dimen338
+\g_EQ_widesttag_dim=\dimen339
 \EQ_mathdisplay_box=\box146
 \EQ_tag_box=\box147
-\g_EQ_temprow_int=\count372
+\g_EQ_temprow_int=\count371
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskin
 s.code.tex"
@@ -1300,24 +1292,24 @@ Library (tcolorbox): 'tcblistings.code.tex' version '4.30'
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings
 .sty"
-\lst@mode=\count373
+\lst@mode=\count372
 \lst@gtempboxa=\box152
 \lst@token=\toks61
-\lst@length=\count374
-\lst@currlwidth=\dimen341
-\lst@column=\count375
-\lst@pos=\count376
-\lst@lostspace=\dimen342
-\lst@width=\dimen343
-\lst@newlines=\count377
-\lst@lineno=\count378
-\lst@maxwidth=\dimen344
+\lst@length=\count373
+\lst@currlwidth=\dimen340
+\lst@column=\count374
+\lst@pos=\count375
+\lst@lostspace=\dimen341
+\lst@width=\dimen342
+\lst@newlines=\count376
+\lst@lineno=\count377
+\lst@maxwidth=\dimen343
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.
 sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count379
-\lst@skipnumbers=\count380
+\c@lstnumber=\count378
+\lst@skipnumbers=\count379
 \lst@framebox=\box153
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings
@@ -1339,49 +1331,49 @@ y"
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
-\c@tcblisting=\count381
+\c@tcblisting=\count380
 ))
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheo
 rems.code.tex"
 Library (tcolorbox): 'tcbtheorems.code.tex' version '4.30'
 ) (TPN7.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `TPN7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 130.
-LaTeX Font Info:    ... okay on input line 130.
-LaTeX Info: Redefining \. on input line 130.
-LaTeX Info: Redefining \% on input line 130.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
 pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count382
-\scratchdimen=\dimen345
+\scratchcounter=\count381
+\scratchdimen=\dimen344
 \scratchbox=\box154
-\nofMPsegments=\count383
-\nofMParguments=\count384
+\nofMPsegments=\count382
+\nofMParguments=\count383
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count385
-\MPscratchDim=\dimen346
-\MPnumerator=\count386
-\makeMPintoPDFobject=\count387
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen345
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
 \everyMPtoPDFconversion=\toks63
 )
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
@@ -1390,21 +1382,21 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 130
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128
 .
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 130
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128
 .
  ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.39998pt on input line 130.
+Package xypdf Info: Line width: 0.47998pt on input line 128.
 \AtBeginShipoutBox=\box155
-Package hyperref Info: Link coloring ON on input line 130.
+Package hyperref Info: Link coloring ON on input line 128.
 
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.
 sty"
@@ -1418,11 +1410,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count388
+\c@section@level=\count387
 )
-LaTeX Info: Redefining \ref on input line 130.
-LaTeX Info: Redefining \pageref on input line 130.
-LaTeX Info: Redefining \nameref on input line 130.
+LaTeX Info: Redefining \ref on input line 128.
+LaTeX Info: Redefining \pageref on input line 128.
+LaTeX Info: Redefining \nameref on input line 128.
  (TPN7.out) (TPN7.out)
 \@outlinefile=\write7
 \openout7 = `TPN7.out'.
@@ -1432,85 +1424,128 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count389
+\c@lstlisting=\count388
 \qlist@sec1=\toks64
 \qlist@scr@sec1=\toks65
-<nena_chipa.png, id=30, 148.30406pt x 174.6525pt>
-File: nena_chipa.png Graphic file (type png)
-<use nena_chipa.png>
-Package pdftex.def Info: nena_chipa.png  used on input line 244.
-(pdftex.def)             Requested size: 148.30368pt x 174.65207pt.
 
-Overfull \hbox (7.37576pt too wide) in paragraph at lines 244--244
- [] 
- []
+Scrambling section 1, question: 
+1, 2. [1
 
-[1
+{C:/Users/JUAN DAVID/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<fracciones1.jpg, id=61, 963.6pt x 722.7pt>
+File: fracciones1.jpg Graphic file (type jpg)
+<use fracciones1.jpg>
+Package pdftex.def Info: fracciones1.jpg  used on input line 233.
+(pdftex.def)             Requested size: 227.6223pt x 142.26576pt.
+<fracciones2.jpg, id=62, 963.6pt x 722.7pt>
+File: fracciones2.jpg Graphic file (type jpg)
+<use fracciones2.jpg>
+Package pdftex.def Info: fracciones2.jpg  used on input line 233.
+(pdftex.def)             Requested size: 227.6223pt x 142.26576pt.
+Package epstopdf Info: Source file: <inicio.eps>
+(epstopdf)                    date: 2020-06-16 01:39:35
+(epstopdf)                    size: 4630 bytes
+(epstopdf)             Output file: <inicio-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-08-21 21:16:41
+(epstopdf)                    size: 2755 bytes
+(epstopdf)             Command: <epstopdf --outfile=inicio-eps-converted-to.pdf
+ inicio.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
 
-{C:/Users/JUAN DAVID/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./nena_chi
-pa.png>]
+
+pdfTeX warning: pdflatex.exe (file ./inicio-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<inicio-eps-converted-to.pdf, id=63, 451.6875pt x 263.98625pt>
+File: inicio-eps-converted-to.pdf Graphic file (type pdf)
+<use inicio-eps-converted-to.pdf>
+Package pdftex.def Info: inicio-eps-converted-to.pdf  used on input line 233.
+(pdftex.def)             Requested size: 170.71947pt x 99.58269pt.
+[2 <./fracciones1.jpg> <./fracciones2.jpg>] [3 <./inicio-eps-converted-to.pdf>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-44.
-
+33.
 ("C:\Users\JUAN DAVID\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-File: nena_chipa.png Graphic file (type png)
-<use nena_chipa.png>
-Package pdftex.def Info: nena_chipa.png  used on input line 244.
-(pdftex.def)             Requested size: 148.30368pt x 174.65207pt.
-
-Overfull \hbox (7.37576pt too wide) in paragraph at lines 244--244
- [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.233 \end{document}
+                     [1]
+File: fracciones1.jpg Graphic file (type jpg)
+<use fracciones1.jpg>
+Package pdftex.def Info: fracciones1.jpg  used on input line 233.
+(pdftex.def)             Requested size: 227.6223pt x 142.26576pt.
+File: fracciones2.jpg Graphic file (type jpg)
+<use fracciones2.jpg>
+Package pdftex.def Info: fracciones2.jpg  used on input line 233.
+(pdftex.def)             Requested size: 227.6223pt x 142.26576pt.
+Package epstopdf Info: Source file: <inicio.eps>
+(epstopdf)                    date: 2020-06-16 01:39:35
+(epstopdf)                    size: 4630 bytes
+(epstopdf)             Output file: <inicio-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-08-21 21:16:41
+(epstopdf)                    size: 2755 bytes
+(epstopdf)             Command: <epstopdf --outfile=inicio-eps-converted-to.pdf
+ inicio.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
+File: inicio-eps-converted-to.pdf Graphic file (type pdf)
+<use inicio-eps-converted-to.pdf>
+Package pdftex.def Info: inicio-eps-converted-to.pdf  used on input line 233.
+(pdftex.def)             Requested size: 170.71947pt x 99.58269pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.244 \end{document}
-                     [1] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+l.233 \end{document}
+                     [2]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.233 \end{document}
+                     [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
  (TPN7.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
 Package rerunfilecheck Info: File `TPN7.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 32787 strings out of 480790
- 652100 string characters out of 2894923
- 1041935 words of memory out of 3000000
- 48122 multiletter control sequences out of 15000+200000
- 548142 words of font info for 73 fonts, out of 3000000 for 9000
+ 32871 strings out of 480790
+ 653866 string characters out of 2894923
+ 1045365 words of memory out of 3000000
+ 48176 multiletter control sequences out of 15000+200000
+ 552798 words of font info for 89 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,83p,3238b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,9n,85p,3238b,844s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/c
 m-super-t1.enc}<C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JUAN DAVID/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JUAN DAVID/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/
-JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbi1000.p
-fb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-sup
-er/sfbx1000.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/cm-super/sfbx1200.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Users/JUAN DAVID/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/JUAN DAVID/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/J
-UAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftc2488.pf
-b><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-supe
-r/sfti1000.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/cm-super/sfti1200.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/cm-super/sftt2488.pfb>
-Output written on TPN7.pdf (3 pages, 235349 bytes).
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/JUAN DAVID/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/JUAN DAVID/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JU
+AN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super
+/sfbx1200.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/cm-super/sfbx2488.pfb><C:/Users/JUAN DAVID/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Users/JUAN DAVID/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/JUA
+N DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1440.pfb>
+<C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/
+sftc2488.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/cm-super/sfti1200.pfb><C:/Users/JUAN DAVID/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/cm-super/sftt2488.pfb>
+Output written on TPN7.pdf (6 pages, 366120 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 

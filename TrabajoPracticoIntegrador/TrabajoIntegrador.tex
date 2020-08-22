@@ -15,6 +15,7 @@
 \usepackage{mathtools}
 \usepackage{amsthm}
 \usepackage[all]{xy}
+\usepackage{enumitem}
 \usepackage{multicol}
 \usepackage{verbatim}
 \usepackage[colorlinks=true,
@@ -102,10 +103,6 @@ bookmarksopen=true]{hyperref}
 \DefineAnswerWrapper{}{}
 %%%%%%%%%%%%%%%%%%     NUMERO DE VERSIONES DEL EXAMEN FILA A, FILA B, FILA C, ETC     %%%%%%%%%%%%%%%
 \NumberOfVersions{1}
-
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Este macro toma un argumento, quiere decir que dentro de las llaves vamos a colocar un estilo de letra para nuestro titulo. hay que saber acerca de fuentes y estilos de letras.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -114,24 +111,6 @@ bookmarksopen=true]{hyperref}
 		\textcolor{upforestgreen}{{\Large \textbf{Matemática}}}}}
 
 \begin{document}
-	
-	%-----------------------        UNIR CON FLECHAS         --------------------------------%
-	\begin{matching}[title={Musicology 101}]
-		Match the following artists with the listed albums.
-		\pair{Elvis Costello}{Spike}
-		\pair{Nirvana}{Nevermind}
-		\pair{Love and Rockets}{Earth, Sun, Moon}
-		\pair{The Jesus and Mary Chain}{Automatic}
-		\pair{The Dave Matthews Band}{Under the Table and Dreaming}
-		\pair{Jesus Jones}{Doubt}
-		\pair{Ned's Atomic Dustbin}{Godfodder}
-		\pair{The Cult}{Sonic Temple}
-		\pair{Soundgarden}{Louder than Love}
-		\pair{Pink Floyd}{The Wall}
-		\pair{Andrew Lloyd Weber}{Soundtrack to `Cats'}
-	\end{matching}
-	
-	
     %-------------------------------             SHORT ANSWER        ------------------------%
     \begin{shortanswer}[title={Completar los siguientes cuadros siguiendo el ejemplo dado:},
     	rearrange=no,resetcounter=no]
@@ -294,19 +273,5 @@ bookmarksopen=true]{hyperref}
     \end{multicols}
      
     %-----------------------------------------------------------------------------------------------%
-    \begin{matching}[title={Musicology 101}]
-    	Match the following artists with the listed albums.
-    	\pair{Elvis Costello}{Spike}
-    	\pair{Nirvana}{Nevermind}
-    	\pair{Love and Rockets}{Earth, Sun, Moon}
-    	\pair{The Jesus and Mary Chain}{Automatic}
-    	\pair{The Dave Matthews Band}{Under the Table and Dreaming}
-    	\pair{Jesus Jones}{Doubt}
-    	\pair{Ned's Atomic Dustbin}{Godfodder}
-    	\pair{The Cult}{Sonic Temple}
-    	\pair{Soundgarden}{Louder than Love}
-    	\pair{Pink Floyd}{The Wall}
-    	\pair{Andrew Lloyd Weber}{Soundtrack to `Cats'}
-    \end{matching}
     
 \end{document}
